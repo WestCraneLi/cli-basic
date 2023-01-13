@@ -1,7 +1,7 @@
 # 介绍
 cli开发学习
 # 安装
-```npm init```
+```npm install```
 # 运行
 ```clib```
 # 详情
